@@ -1,0 +1,17 @@
+{
+	"name": "speech-to-text",
+	"version": "0.0.1",
+	"description": "",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"minimist": "1.2.0",
+		"pocketsphinx": "5.0.7"
+	},
+	"keywords": [
+		"speech recognition", "speech to text conversion", "machine learning"
+	],
+	"author": "Ashwini Kumar <kumarashwini@outlook.com>",
+	"license": "ISC"
+}
